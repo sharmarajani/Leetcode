@@ -39,8 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/sharmarajani/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1323-maximum-69-number](https://github.com/sharmarajani/Leetcode/tree/master/1323-maximum-69-number) |
 ## Geometry
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/sharmarajani/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/sharmarajani/Leetcode/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
