@@ -9,16 +9,10 @@ class Solution:
             return 
         prev, curr = None, head
         fast = curr.next
-        while fast !=None:
-            curr.next = prev
-            prev = curr
-            curr = fast
-            fast= fast.next
-
-
-        curr.next = prev
-        return curr
-
-
-        
-        
+        while curr:
+           fast=curr.next
+           curr.next = prev
+           prev = curr
+           curr = fast
+        # curr.next = prev
+        return prev
