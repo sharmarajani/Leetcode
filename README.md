@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sharmarajani/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sharmarajani/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/sharmarajani/Leetcode/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -107,13 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sharmarajani/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sharmarajani/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sharmarajani/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sharmarajani/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sharmarajani/Leetcode/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/sharmarajani/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sharmarajani/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
