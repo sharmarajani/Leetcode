@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sharmarajani/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sharmarajani/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/sharmarajani/Leetcode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/sharmarajani/Leetcode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/sharmarajani/Leetcode/tree/master/0099-recover-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sharmarajani/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
