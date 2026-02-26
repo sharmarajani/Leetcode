@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/sharmarajani/Leetcode/tree/master/0221-maximal-square) |
 | [0705-design-hashset](https://github.com/sharmarajani/Leetcode/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/sharmarajani/Leetcode/tree/master/0733-flood-fill) |
+| [0977-squares-of-a-sorted-array](https://github.com/sharmarajani/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sharmarajani/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sharmarajani/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-largest-magic-square](https://github.com/sharmarajani/Leetcode/tree/master/1895-largest-magic-square) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/sharmarajani/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sharmarajani/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Hash Table
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sharmarajani/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sharmarajani/Leetcode/tree/master/0143-reorder-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/sharmarajani/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
 | ------- |
