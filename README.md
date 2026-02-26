@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/sharmarajani/Leetcode/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/sharmarajani/Leetcode/tree/master/0733-flood-fill) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sharmarajani/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sharmarajani/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-largest-magic-square](https://github.com/sharmarajani/Leetcode/tree/master/1895-largest-magic-square) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sharmarajani/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sharmarajani/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sharmarajani/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/sharmarajani/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/sharmarajani/Leetcode/tree/master/0155-min-stack) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sharmarajani/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sharmarajani/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sharmarajani/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sharmarajani/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
 |  |
 | ------- |
