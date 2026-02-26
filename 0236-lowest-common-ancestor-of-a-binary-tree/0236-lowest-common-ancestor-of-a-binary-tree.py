@@ -7,36 +7,35 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+        if not root:
+            return None
         path1 = []
         path2 = []
-
-        def backtrack (root, p,q, arraylist):
-            # base case
-            if path1 and path2:
-                return True
-            if root==None:
+        def bactrack (root, target , path):
+            # basecase
+            
+            if not root:
                 return False
-            # action
-            arraylist.append(root)
-            if root==p:
-                path1.extend(arraylist[:])
-            if root==q:
-                path2.extend(arraylist[:])
-            
             # logic
-            
-            if backtrack(root.left, p, q, arraylist) or backtrack(root.right, p, q, arraylist):
+
+            path.append(root)
+            if root==target:
+
+                return True
+
+            if bactrack(root.left, target, path) or bactrack(root.right, target, path):
                 return True
             # backtrack
-            arraylist.pop()
-            return False
-            
-        backtrack(root, p,q, [])
-        i = 0
-        while i < len(path1) and i < len(path2):
-            if path1[i] != path2[i]:
-                return path1[i - 1]
-            i += 1
-        return path1[i - 1] if i > 0 else None
+            path.pop()
+        # return False
+        bactrack(root, p, path1)
+        bactrack(root, q, path2)
+        i=0
+        while i<len(path1) and i <len(path2):
+            if path1[i]==path2[i]:
+                i+=1
+            else:
+                return path1[i-1]
+        return path1[i-1]
 
         
