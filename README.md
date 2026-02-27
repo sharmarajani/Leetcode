@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sharmarajani/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/sharmarajani/Leetcode/tree/master/0127-word-ladder) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sharmarajani/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Dynamic Programming
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharmarajani/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0079-word-search](https://github.com/sharmarajani/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sharmarajani/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sharmarajani/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/sharmarajani/Leetcode/tree/master/0200-number-of-islands) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sharmarajani/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sharmarajani/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/sharmarajani/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sharmarajani/Leetcode/tree/master/0221-maximal-square) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sharmarajani/Leetcode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/sharmarajani/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/sharmarajani/Leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/sharmarajani/Leetcode/tree/master/0200-number-of-islands) |
@@ -172,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sharmarajani/Leetcode/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sharmarajani/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
