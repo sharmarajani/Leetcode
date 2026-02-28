@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/sharmarajani/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/sharmarajani/Leetcode/tree/master/0127-word-ladder) |
+| [0208-implement-trie-prefix-tree](https://github.com/sharmarajani/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sharmarajani/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Dynamic Programming
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/sharmarajani/Leetcode/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/sharmarajani/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/sharmarajani/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0705-design-hashset](https://github.com/sharmarajani/Leetcode/tree/master/0705-design-hashset) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sharmarajani/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Enumeration
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sharmarajani/Leetcode/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/sharmarajani/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0705-design-hashset](https://github.com/sharmarajani/Leetcode/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sharmarajani/Leetcode/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sharmarajani/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
