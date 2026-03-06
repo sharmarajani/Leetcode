@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/sharmarajani/Leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/sharmarajani/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/sharmarajani/Leetcode/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sharmarajani/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0648-replace-words](https://github.com/sharmarajani/Leetcode/tree/master/0648-replace-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sharmarajani/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sharmarajani/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/sharmarajani/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/sharmarajani/Leetcode/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sharmarajani/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/sharmarajani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/sharmarajani/Leetcode/tree/master/0648-replace-words) |
 | [0705-design-hashset](https://github.com/sharmarajani/Leetcode/tree/master/0705-design-hashset) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharmarajani/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sharmarajani/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Queue
 |  |
 | ------- |
