@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/sharmarajani/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sharmarajani/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-largest-magic-square](https://github.com/sharmarajani/Leetcode/tree/master/1895-largest-magic-square) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/sharmarajani/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sharmarajani/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sharmarajani/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sharmarajani/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/sharmarajani/Leetcode/tree/master/0409-longest-palindrome) |
 | [1323-maximum-69-number](https://github.com/sharmarajani/Leetcode/tree/master/1323-maximum-69-number) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/sharmarajani/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Tree
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sharmarajani/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharmarajani/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/sharmarajani/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3453-separate-squares-i](https://github.com/sharmarajani/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sharmarajani/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Segment Tree
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/sharmarajani/Leetcode/tree/master/0791-custom-sort-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/sharmarajani/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/sharmarajani/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sharmarajani/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Hash Table
 |  |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sharmarajani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1895-largest-magic-square](https://github.com/sharmarajani/Leetcode/tree/master/1895-largest-magic-square) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/sharmarajani/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Linked List
 |  |
 | ------- |
