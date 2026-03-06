@@ -2,15 +2,11 @@ class Solution:
     def answerQueries(self, nums: List[int], queries: List[int]) -> List[int]:
         ans= [] 
         nums.sort()
-        for val in queries:
-            count = 0
-            for num in nums:
-                if val >= num:
-                    val-=num
-                    count+=1
-                else:
-                    break
-            ans.append(count)
+        for i in range(1, len(nums)):
+            nums[i]= nums[i-1] + nums[i]
+        for i in range(len(queries)):
+            index = bisect.bisect_right(nums , queries[i])
+            ans.append(index)
         return ans
             
 
