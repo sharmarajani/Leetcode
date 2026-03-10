@@ -18,6 +18,7 @@ class Solution:
                         return
         for i in range(len(graph)):
             if color[i]==-1:
+                color[i] = 1
                 dfs(graph, color, i)
         return Bipartite
         
