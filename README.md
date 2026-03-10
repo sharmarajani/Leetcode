@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/sharmarajani/Leetcode/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/sharmarajani/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/sharmarajani/Leetcode/tree/master/0994-rotting-oranges) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sharmarajani/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sharmarajani/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-largest-magic-square](https://github.com/sharmarajani/Leetcode/tree/master/1895-largest-magic-square) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sharmarajani/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sharmarajani/Leetcode/tree/master/0221-maximal-square) |
 | [0733-flood-fill](https://github.com/sharmarajani/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/sharmarajani/Leetcode/tree/master/0994-rotting-oranges) |
 | [1895-largest-magic-square](https://github.com/sharmarajani/Leetcode/tree/master/1895-largest-magic-square) |
 ## Stack
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sharmarajani/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sharmarajani/Leetcode/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sharmarajani/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/sharmarajani/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
