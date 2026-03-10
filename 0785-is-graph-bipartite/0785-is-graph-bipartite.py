@@ -1,24 +1,26 @@
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
         Bipartite = True
-        color = [-1] * len(graph)
-        def dfs (graph, color, idx):
-            # base
-            nonlocal Bipartite
-            if not Bipartite:
-                return
-            # logic
-            for nei in graph[idx]:
-                if color[nei] == -1:
-                    color[nei] = 1-color[idx]
-                    dfs(graph, color, nei)
-                else:
-                    if color[nei]==color[idx]:
-                        Bipartite = False
-                        return
-        for i in range(len(graph)):
+        n = len(graph)
+        color = [-1] * n
+        q= deque()
+        for i in range(n):
             if color[i]==-1:
-                color[i] = 1
-                dfs(graph, color, i)
-        return Bipartite
+                color[i]=1
+                q.append(i)
+                while q:
+                    for _ in range(len(q)):
+                        ele = q.popleft()
+                        for nei in graph[ele]:
+                            if color[nei]==-1:
+                                q.append(nei)
+                                color[nei]=1-color[ele]
+                            else:
+                                if color[nei]== color[ele]:
+                                    Bipartite = False
+                                    return False
+        return True
+
+                        
+
         
