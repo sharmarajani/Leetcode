@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sharmarajani/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/sharmarajani/Leetcode/tree/master/0994-rotting-oranges) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sharmarajani/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1429-first-unique-number](https://github.com/sharmarajani/Leetcode/tree/master/1429-first-unique-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sharmarajani/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-largest-magic-square](https://github.com/sharmarajani/Leetcode/tree/master/1895-largest-magic-square) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sharmarajani/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/sharmarajani/Leetcode/tree/master/0705-design-hashset) |
 | [0720-longest-word-in-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/sharmarajani/Leetcode/tree/master/0791-custom-sort-string) |
+| [1429-first-unique-number](https://github.com/sharmarajani/Leetcode/tree/master/1429-first-unique-number) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sharmarajani/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Enumeration
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sharmarajani/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/sharmarajani/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0705-design-hashset](https://github.com/sharmarajani/Leetcode/tree/master/0705-design-hashset) |
+| [1429-first-unique-number](https://github.com/sharmarajani/Leetcode/tree/master/1429-first-unique-number) |
 ## Hash Function
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/sharmarajani/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharmarajani/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1429-first-unique-number](https://github.com/sharmarajani/Leetcode/tree/master/1429-first-unique-number) |
 ## Iterator
 |  |
 | ------- |
@@ -297,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sharmarajani/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Data Stream
+|  |
+| ------- |
+| [1429-first-unique-number](https://github.com/sharmarajani/Leetcode/tree/master/1429-first-unique-number) |
 <!---LeetCode Topics End-->
