@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/sharmarajani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/sharmarajani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/sharmarajani/Leetcode/tree/master/0648-replace-words) |
+| [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/sharmarajani/Leetcode/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0705-design-hashset](https://github.com/sharmarajani/Leetcode/tree/master/0705-design-hashset) |
 | [0720-longest-word-in-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/sharmarajani/Leetcode/tree/master/0733-flood-fill) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sharmarajani/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharmarajani/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/sharmarajani/Leetcode/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sharmarajani/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3453-separate-squares-i](https://github.com/sharmarajani/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sharmarajani/Leetcode/tree/master/3454-separate-squares-ii) |
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sharmarajani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Interactive
+|  |
+| ------- |
+| [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/sharmarajani/Leetcode/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 <!---LeetCode Topics End-->
