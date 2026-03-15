@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/sharmarajani/Leetcode/tree/master/0791-custom-sort-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [1041-robot-bounded-in-circle](https://github.com/sharmarajani/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1542-find-longest-awesome-substring](https://github.com/sharmarajani/Leetcode/tree/master/1542-find-longest-awesome-substring) |
 ## Dynamic Programming
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sharmarajani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1041-robot-bounded-in-circle](https://github.com/sharmarajani/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sharmarajani/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/sharmarajani/Leetcode/tree/master/1323-maximum-69-number) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sharmarajani/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sharmarajani/Leetcode/tree/master/0207-course-schedule) |
 | [0269-alien-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0269-alien-dictionary) |
+## Simulation
+|  |
+| ------- |
+| [1041-robot-bounded-in-circle](https://github.com/sharmarajani/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 <!---LeetCode Topics End-->
