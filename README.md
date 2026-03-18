@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0269-alien-dictionary) |
 | [0322-coin-change](https://github.com/sharmarajani/Leetcode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sharmarajani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0502-ipo](https://github.com/sharmarajani/Leetcode/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/sharmarajani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/sharmarajani/Leetcode/tree/master/0648-replace-words) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/sharmarajani/Leetcode/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/sharmarajani/Leetcode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/sharmarajani/Leetcode/tree/master/0502-ipo) |
 | [1323-maximum-69-number](https://github.com/sharmarajani/Leetcode/tree/master/1323-maximum-69-number) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sharmarajani/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Tree
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sharmarajani/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/sharmarajani/Leetcode/tree/master/0502-ipo) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sharmarajani/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/sharmarajani/Leetcode/tree/master/0791-custom-sort-string) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sharmarajani/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/sharmarajani/Leetcode/tree/master/0502-ipo) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sharmarajani/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
