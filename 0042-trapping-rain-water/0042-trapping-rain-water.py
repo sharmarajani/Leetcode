@@ -4,16 +4,20 @@ class Solution:
         area = 0
         while l <= r:
             if lw <=rw:
-                if height[l] < lw:
-                    area += lw - height[l]
-                else:
-                    lw = height[l]
+                # if height[l] < lw:
+                #     area += lw - height[l]
+                # else:
+                #     lw = height[l]
+                lw = max(lw, height[l] )
+                area+= lw -height[l]
                 l+=1
             else:
-                if height[r] < rw:
-                    area+= rw -height[r]
-                else:
-                    rw = height[r]
+                # if height[r] < rw:
+                #     area+= rw -height[r]
+                # else:
+                #     rw = height[r]
+                rw = max(rw, height[r])
+                area+= rw-height[r]
                 r-=1
         return area
 
