@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sharmarajani/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/sharmarajani/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sharmarajani/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sharmarajani/Leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/sharmarajani/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sharmarajani/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sharmarajani/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sharmarajani/Leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/sharmarajani/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1429-first-unique-number](https://github.com/sharmarajani/Leetcode/tree/master/1429-first-unique-number) |
 | [1542-find-longest-awesome-substring](https://github.com/sharmarajani/Leetcode/tree/master/1542-find-longest-awesome-substring) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sharmarajani/Leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sharmarajani/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Enumeration
 |  |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1542-find-longest-awesome-substring](https://github.com/sharmarajani/Leetcode/tree/master/1542-find-longest-awesome-substring) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sharmarajani/Leetcode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Randomized
 |  |
 | ------- |
