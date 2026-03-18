@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/sharmarajani/Leetcode/tree/master/0791-custom-sort-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0981-time-based-key-value-store](https://github.com/sharmarajani/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1041-robot-bounded-in-circle](https://github.com/sharmarajani/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1542-find-longest-awesome-substring](https://github.com/sharmarajani/Leetcode/tree/master/1542-find-longest-awesome-substring) |
 ## Dynamic Programming
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sharmarajani/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/sharmarajani/Leetcode/tree/master/0162-find-peak-element) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/sharmarajani/Leetcode/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
+| [0981-time-based-key-value-store](https://github.com/sharmarajani/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sharmarajani/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2861-maximum-number-of-alloys](https://github.com/sharmarajani/Leetcode/tree/master/2861-maximum-number-of-alloys) |
 | [3453-separate-squares-i](https://github.com/sharmarajani/Leetcode/tree/master/3453-separate-squares-i) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/sharmarajani/Leetcode/tree/master/0791-custom-sort-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0981-time-based-key-value-store](https://github.com/sharmarajani/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1429-first-unique-number](https://github.com/sharmarajani/Leetcode/tree/master/1429-first-unique-number) |
 | [1542-find-longest-awesome-substring](https://github.com/sharmarajani/Leetcode/tree/master/1542-find-longest-awesome-substring) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sharmarajani/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/sharmarajani/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sharmarajani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/sharmarajani/Leetcode/tree/master/0705-design-hashset) |
+| [0981-time-based-key-value-store](https://github.com/sharmarajani/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1429-first-unique-number](https://github.com/sharmarajani/Leetcode/tree/master/1429-first-unique-number) |
 ## Hash Function
 |  |
