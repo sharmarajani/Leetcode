@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sharmarajani/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sharmarajani/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/sharmarajani/Leetcode/tree/master/0221-maximal-square) |
+| [0253-meeting-rooms-ii](https://github.com/sharmarajani/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0269-alien-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0269-alien-dictionary) |
 | [0322-coin-change](https://github.com/sharmarajani/Leetcode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sharmarajani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/sharmarajani/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0409-longest-palindrome](https://github.com/sharmarajani/Leetcode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/sharmarajani/Leetcode/tree/master/0502-ipo) |
 | [1323-maximum-69-number](https://github.com/sharmarajani/Leetcode/tree/master/1323-maximum-69-number) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sharmarajani/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/sharmarajani/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0502-ipo](https://github.com/sharmarajani/Leetcode/tree/master/0502-ipo) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sharmarajani/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/sharmarajani/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sharmarajani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1895-largest-magic-square](https://github.com/sharmarajani/Leetcode/tree/master/1895-largest-magic-square) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sharmarajani/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmarajani/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/sharmarajani/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sharmarajani/Leetcode/tree/master/0143-reorder-list) |
+| [0253-meeting-rooms-ii](https://github.com/sharmarajani/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sharmarajani/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0977-squares-of-a-sorted-array](https://github.com/sharmarajani/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
@@ -312,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sharmarajani/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/sharmarajani/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0502-ipo](https://github.com/sharmarajani/Leetcode/tree/master/0502-ipo) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sharmarajani/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
