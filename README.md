@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sharmarajani/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sharmarajani/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/sharmarajani/Leetcode/tree/master/0221-maximal-square) |
+| [0239-sliding-window-maximum](https://github.com/sharmarajani/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/sharmarajani/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0269-alien-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0269-alien-dictionary) |
 | [0322-coin-change](https://github.com/sharmarajani/Leetcode/tree/master/0322-coin-change) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sharmarajani/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/sharmarajani/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/sharmarajani/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0502-ipo](https://github.com/sharmarajani/Leetcode/tree/master/0502-ipo) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sharmarajani/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -346,10 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharmarajani/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/sharmarajani/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sharmarajani/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sharmarajani/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/sharmarajani/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharmarajani/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1429-first-unique-number](https://github.com/sharmarajani/Leetcode/tree/master/1429-first-unique-number) |
@@ -391,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1041-robot-bounded-in-circle](https://github.com/sharmarajani/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1706-where-will-the-ball-fall](https://github.com/sharmarajani/Leetcode/tree/master/1706-where-will-the-ball-fall) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sharmarajani/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
