@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/sharmarajani/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0977-squares-of-a-sorted-array](https://github.com/sharmarajani/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/sharmarajani/Leetcode/tree/master/0994-rotting-oranges) |
+| [1060-missing-element-in-sorted-array](https://github.com/sharmarajani/Leetcode/tree/master/1060-missing-element-in-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sharmarajani/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1429-first-unique-number](https://github.com/sharmarajani/Leetcode/tree/master/1429-first-unique-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sharmarajani/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/sharmarajani/Leetcode/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sharmarajani/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0981-time-based-key-value-store](https://github.com/sharmarajani/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1060-missing-element-in-sorted-array](https://github.com/sharmarajani/Leetcode/tree/master/1060-missing-element-in-sorted-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sharmarajani/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2861-maximum-number-of-alloys](https://github.com/sharmarajani/Leetcode/tree/master/2861-maximum-number-of-alloys) |
 | [3453-separate-squares-i](https://github.com/sharmarajani/Leetcode/tree/master/3453-separate-squares-i) |
