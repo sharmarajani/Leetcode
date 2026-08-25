@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1429-first-unique-number](https://github.com/sharmarajani/Leetcode/tree/master/1429-first-unique-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sharmarajani/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1706-where-will-the-ball-fall](https://github.com/sharmarajani/Leetcode/tree/master/1706-where-will-the-ball-fall) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sharmarajani/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/sharmarajani/Leetcode/tree/master/1895-largest-magic-square) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sharmarajani/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2861-maximum-number-of-alloys](https://github.com/sharmarajani/Leetcode/tree/master/2861-maximum-number-of-alloys) |
