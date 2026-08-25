@@ -5,22 +5,19 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    # iterative in-order
-    
+    # recurse
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        stack = []
-        prev = None
+        self.prev = -math.inf
 
-        while stack or root:
-            while root:
-                stack.append(root)
-                root = root.left
-            root = stack.pop()
-            if prev is not None and prev.val >= root.val:
+        def helper(root):
+            # base
+            if not root:
+                return True
+            # recurse
+            if not helper(root.left):
                 return False
-            prev = root
-            root = root.right
-        return True
-        
-
-
+            if root.val <= self.prev:
+                return False
+            self.prev = root.val
+            return helper(root.right)
+        return helper(root)
