@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/sharmarajani/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sharmarajani/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/sharmarajani/Leetcode/tree/master/0101-symmetric-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/sharmarajani/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sharmarajani/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sharmarajani/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/sharmarajani/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/sharmarajani/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sharmarajani/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/sharmarajani/Leetcode/tree/master/0101-symmetric-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/sharmarajani/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/sharmarajani/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sharmarajani/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sharmarajani/Leetcode/tree/master/0207-course-schedule) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/sharmarajani/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sharmarajani/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/sharmarajani/Leetcode/tree/master/0101-symmetric-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/sharmarajani/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sharmarajani/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sharmarajani/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sharmarajani/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
