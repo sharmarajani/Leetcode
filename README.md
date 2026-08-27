@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0305-number-of-islands-ii](https://github.com/sharmarajani/Leetcode/tree/master/0305-number-of-islands-ii) |
 | [0322-coin-change](https://github.com/sharmarajani/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sharmarajani/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0379-design-phone-directory](https://github.com/sharmarajani/Leetcode/tree/master/0379-design-phone-directory) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sharmarajani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/sharmarajani/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/sharmarajani/Leetcode/tree/master/0502-ipo) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sharmarajani/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0305-number-of-islands-ii](https://github.com/sharmarajani/Leetcode/tree/master/0305-number-of-islands-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sharmarajani/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0379-design-phone-directory](https://github.com/sharmarajani/Leetcode/tree/master/0379-design-phone-directory) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sharmarajani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharmarajani/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/sharmarajani/Leetcode/tree/master/0409-longest-palindrome) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sharmarajani/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/sharmarajani/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sharmarajani/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0379-design-phone-directory](https://github.com/sharmarajani/Leetcode/tree/master/0379-design-phone-directory) |
 | [0705-design-hashset](https://github.com/sharmarajani/Leetcode/tree/master/0705-design-hashset) |
 ## Two Pointers
 |  |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sharmarajani/Leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/sharmarajani/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/sharmarajani/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0379-design-phone-directory](https://github.com/sharmarajani/Leetcode/tree/master/0379-design-phone-directory) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sharmarajani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/sharmarajani/Leetcode/tree/master/0705-design-hashset) |
 | [0981-time-based-key-value-store](https://github.com/sharmarajani/Leetcode/tree/master/0981-time-based-key-value-store) |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sharmarajani/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/sharmarajani/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0379-design-phone-directory](https://github.com/sharmarajani/Leetcode/tree/master/0379-design-phone-directory) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharmarajani/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1429-first-unique-number](https://github.com/sharmarajani/Leetcode/tree/master/1429-first-unique-number) |
 ## Iterator
