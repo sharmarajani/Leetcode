@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/sharmarajani/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/sharmarajani/Leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/sharmarajani/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/sharmarajani/Leetcode/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sharmarajani/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sharmarajani/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Array
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0379-design-phone-directory](https://github.com/sharmarajani/Leetcode/tree/master/0379-design-phone-directory) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sharmarajani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/sharmarajani/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/sharmarajani/Leetcode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/sharmarajani/Leetcode/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/sharmarajani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/sharmarajani/Leetcode/tree/master/0561-array-partition) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/sharmarajani/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/sharmarajani/Leetcode/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/sharmarajani/Leetcode/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |
@@ -462,4 +465,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/sharmarajani/Leetcode/tree/master/0561-array-partition) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sharmarajani/Leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sharmarajani/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
