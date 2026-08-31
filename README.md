@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharmarajani/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sharmarajani/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmarajani/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/sharmarajani/Leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/sharmarajani/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/sharmarajani/Leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/sharmarajani/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sharmarajani/Leetcode/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/sharmarajani/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sharmarajani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1041-robot-bounded-in-circle](https://github.com/sharmarajani/Leetcode/tree/master/1041-robot-bounded-in-circle) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sharmarajani/Leetcode/tree/master/0043-multiply-strings) |
 | [0289-game-of-life](https://github.com/sharmarajani/Leetcode/tree/master/0289-game-of-life) |
 | [1041-robot-bounded-in-circle](https://github.com/sharmarajani/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1706-where-will-the-ball-fall](https://github.com/sharmarajani/Leetcode/tree/master/1706-where-will-the-ball-fall) |
